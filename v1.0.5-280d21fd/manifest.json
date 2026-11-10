@@ -2,11 +2,11 @@
  "versionName": "1.0.5",
  "versionCode": 6,
  "apkFile": "TujianBaike-v1.0.5-release.apk",
- "size": 73513053,
- "md5": "d8c215f16c7661abbdaaf14f32c5ae20",
+ "size": 73548894,
+ "md5": "280d21fdf325b24ed23b1b355c6e9a33",
  "chunkSize": 8388608,
  "repo": "btilu/tujian-cdn-app",
- "dir": "v1.0.5-d8c215f1",
+ "dir": "v1.0.5-280d21fd",
  "branch": "main",
  "hosts": [
   "cdn.jsdelivr.net",
@@ -18,47 +18,47 @@
   {
    "name": "part-00.bin",
    "size": 8388608,
-   "md5": "bbb02cffe6788614bee462f39daeff92"
+   "md5": "cd3a605ef1201aef20cf782cc218f6b2"
   },
   {
    "name": "part-01.bin",
    "size": 8388608,
-   "md5": "48f7072de03526665ac0efb06a2dae0d"
+   "md5": "3c09f9462c0912e5ca068812e4f6876b"
   },
   {
    "name": "part-02.bin",
    "size": 8388608,
-   "md5": "63a70d67e5b5d7f5c5a93b2db3769c1d"
+   "md5": "563a73fe070687d4132edb98a1e21b78"
   },
   {
    "name": "part-03.bin",
    "size": 8388608,
-   "md5": "99e80ac6be5a9a39ef2921bffe9e80ae"
+   "md5": "78aeefdabef75a1299928ae2ab98f66f"
   },
   {
    "name": "part-04.bin",
    "size": 8388608,
-   "md5": "014bda75b675cc6a2da659553a077498"
+   "md5": "20f90b070652f8f57092148395e5925a"
   },
   {
    "name": "part-05.bin",
    "size": 8388608,
-   "md5": "26df67861ed8708989ec7010655fadca"
+   "md5": "3a1673f30c295799eeab20dd241ea89a"
   },
   {
    "name": "part-06.bin",
    "size": 8388608,
-   "md5": "44bc48e7030c85d6b707452712b76495"
+   "md5": "3e466554ad2e38f64c12b2fc998fa6e5"
   },
   {
    "name": "part-07.bin",
    "size": 8388608,
-   "md5": "87a05fa9e65639754dd6b325c814b2a6"
+   "md5": "1f4ac280c3826e61dbd2da5911740f2b"
   },
   {
    "name": "part-08.bin",
-   "size": 6404189,
-   "md5": "79ea413b3050faee8f90f8f5773474e7"
+   "size": 6440030,
+   "md5": "c98526ef85d6091569187bf729b5e427"
   }
  ]
 }
